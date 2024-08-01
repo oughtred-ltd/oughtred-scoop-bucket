@@ -2,17 +2,18 @@
     "homepage": "https://github.com/pbi-tools/pbi-tools",
     "description": "Power BI DevOps & Source Control Tool",
     "version": "1.0.1",
-    "hash": "02a8ebaf85f6813dac3db6161f7e71d5e279d5a65c9d8faf176de8e877271b86",
+    "hash": "5895f5b10d05c2c252e24ff8c9d440dd7f663314dd9396dd1a37b42a36331cc9",
     "url": "https://github.com/pbi-tools/pbi-tools/releases/download/1.0.1/pbi-tools.1.0.1.zip",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/pbi-tools/pbi-tools/releases/download/$version/pbi-tools.$version.zip",
         "extract_dir": "pbi-tools.$version"
     },
-    "license" :  "AGPL-3.0",
+    "license": "AGPL-3.0",
     "bin": [
         [
-            "pbi-tools.exe", "pbi-tools"
+            "pbi-tools.exe",
+            "pbi-tools"
         ]
     ]
 }
