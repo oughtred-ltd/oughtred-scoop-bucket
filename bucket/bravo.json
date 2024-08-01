@@ -3,7 +3,7 @@
     "description": "Bravo for Power BI",
     "version": "1.0.9",
     "license": "MIT",
-    "hash": "02a8ebaf85f6813dac3db6161f7e71d5e279d5a65c9d8faf176de8e877271b86",
+    "hash": "e67a3c2de3171e06f7cd60252d65739f00c9846dc723f8129efaefa41d2ee4a4",
     "url": "https://github.com/sql-bi/Bravo/releases/download/v1.0.9/Bravo.1.0.9.x64-portable.zip",
     "checkver": "github",
     "autoupdate": {
